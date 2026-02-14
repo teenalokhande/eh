@@ -1,0 +1,18 @@
+[
+    {
+        "ssid": "Cafe_Free_Wifi",
+        "signal": -42,
+        "encryption": "OPEN"
+    },
+    {
+        "ssid": "Home_Network",
+        "signal": -55,
+        "encryption": "WPA2"
+    },
+    {
+        "ssid": "Office_Network",
+        "signal": -60,
+        "encryption": "WPA3"
+    }
+]
+
